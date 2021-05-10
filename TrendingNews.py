@@ -10,4 +10,6 @@ for x in result:
 	print("Title--",x['title'])
 	print("Date/Time--",x['date'])
 	print("Description--",x['desc'])
-	print("Link--",x[])
+	print("Link--",x['link'])
+	print("")
+	print("")
